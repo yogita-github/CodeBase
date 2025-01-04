@@ -1,0 +1,46 @@
+docker login ---- to login via cmd
+docker pull ubuntu ---- to download ubuntu image
+dodcker ps ---shows recent containerr
+docker images ---to see images pulled
+docker create ubuntu ----to create a container
+docker ps 
+docker ps-a -----show all containers or docker ps -a
+docker ps
+docker start ubuntu  ----
+docker * id   or docker name
+docker run ubuntu
+docker images
+create one newfolder of your name
+create one file inside it 
+
+
+docker create redis
+docker ps
+docker run redis
+docker ps --to see running container
+docker pause containerid ---to pause docker
+docker stop container_id or docker stop redis
+docker ps -a --details of  all containers are shown
+docker rm containerid ---- to remove container
+docker ps
+docker rmi imageid ---to delete imaged
+docker pause containerid ---to pause docker
+docker run image name
+docker pull imagename
+docker rmi -f imageid --forcefully stop image
+docker --help
+docker login -------- (hub)to login to docker hub
+docker push imagename---- pushing image created by u for your local application
+docker build image name----image created in local file code
+
+
+
+
+Digest: sha256:dfc10878be8d8fc9c61cbff33166cb1d1fe44391539243703c72766894fa834a
+Status: Downloaded newer image for ubuntu:latest
+05e6790e4ed0178ee0e289b2a2cfce2eb7b57ac193171567ffc2a56d235640eb
+
+
+
+
+
